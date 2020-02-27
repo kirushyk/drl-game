@@ -1,1 +1,1 @@
-# Reinforfement Learning Game
+# Reinforcement Learning Game
